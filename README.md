@@ -1,57 +1,78 @@
-# ahmed
 
-# Hi, I'm Ahmed 👋
+<div align="center">
 
-### Front-End Developer | Web Development Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D1117,100:161B22&text=AHMED&fontSize=60&fontColor=58A6FF&fontAlignY=45&desc=FRONT-END%20DEVELOPER%20%7C%20WEB%20ENTHUSIAST&descSize=15&descAlignY=72&descColor=C9D1D9" width="100%" alt="Ahmed - Front-End Developer" />
 
-Welcome to my GitHub profile! I'm an aspiring front-end developer who enjoys building clean, responsive, and user-friendly websites.
+<p>
+  <a href="https://github.com/ahmed20071962">
+    <img src="https://img.shields.io/badge/GitHub-ahmed20071962-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Front--End%20Development-161B22?style=flat-square&logo=code&logoColor=58A6FF" alt="Focus: Front-end development" />
+</p>
 
-I work with **HTML, CSS, and JavaScript**, and I'm continuously improving my skills by learning, experimenting, and building projects.
+**Turning ideas into clean, functional web experiences.**
+
+</div>
 
 ---
 
-## About Me
+## 01 — About Me
 
-- 💻 Interested in front-end development and web design
-- 🌱 Currently improving my JavaScript and responsive design skills
-- 🎯 Goal: Build useful, accessible, and visually appealing websites
-- 🤝 Open to learning, collaboration, and new challenges
+I'm Ahmed, a front-end development enthusiast focused on building responsive interfaces and intuitive web experiences.
 
-## Tech Stack
+I enjoy exploring web technologies, improving my development workflow, and turning ideas into practical projects. My current focus is strengthening my JavaScript skills and developing a strong foundation in modern web development.
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
+- **Focus:** Front-end development and responsive web design
+- **Technologies:** HTML5, CSS3, JavaScript
+- **Currently learning:** Better JavaScript patterns and UI development
+- **Goal:** Build useful, accessible, and maintainable web experiences
 
-## Featured Projects
+## 02 — Tech Stack
 
-I'm building my portfolio and working on projects to strengthen my web development skills.
+<div align="center">
 
-| Project | Description | Technologies |
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" />
+
+</div>
+
+## 03 — Selected Projects
+
+I'm building and refining projects that demonstrate my front-end skills.
+
+| Project | Description | Stack |
 |---|---|---|
-| Personal Portfolio | A website to showcase my skills and work | HTML, CSS, JavaScript |
-| Responsive Web Page | A webpage designed for different screen sizes | HTML, CSS |
-| JavaScript Mini Projects | Small interactive projects to practise JavaScript | JavaScript |
+| Personal Portfolio | A home for my work, skills, and projects | HTML, CSS, JS |
+| Responsive Web Design | Layouts built for mobile and desktop | HTML, CSS |
+| JavaScript Experiments | Small interactive applications | JavaScript |
 
-> Replace these example projects with your actual repositories as you create them.
+> Replace these examples with your actual repositories and project links before presenting them as completed work.
 
-## GitHub Statistics
+## 04 — GitHub Analytics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed20071962&show_icons=true&hide_border=true&theme=default" alt="Ahmed's GitHub statistics" />
-</p>
+<div align="center">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed20071962&layout=compact&hide_border=true&theme=default" alt="Most-used programming languages" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmed20071962&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed20071962&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
+
+</div>
+
+## 05 — Contribution Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ahmed20071962&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" width="100%" alt="GitHub contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed20071962&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F0F6FC&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+
+</div>
 
 ---
 
-## Let's Connect
+<div align="center">
 
-- GitHub: [@ahmed20071962](https://github.com/ahmed20071962)
+*BUILD WITH PURPOSE. IMPROVE EVERY DAY.*
 
-Thanks for visiting my profile!
+<a href="https://github.com/ahmed20071962">GitHub Profile</a>
+
+</div>
